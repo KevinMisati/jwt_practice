@@ -1,3 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 #root{
     background-color:rebeccapurple;
+    min-height: 100%;
+    width: 100%;
+}
+header a{
+    padding: 1rem;
+    border: 1px solid white;
+    color: white;
+}
+header{
+    margin:2rem 0px;
+}
+h1{
+    padding: .75rem;
 }
